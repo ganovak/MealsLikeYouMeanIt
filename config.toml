@@ -1,17 +1,17 @@
-baseURL = "mealslikeyoumeanit.netlify.app/"
+baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Meals Like You Mean It"
+title = "Hugo Learn Documentation"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = ""
-  description = "Novak Family Cookbook"
-  author = "Gabby Novak"
-  showVisitedLinks = false
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Documentation for Hugo Learn Theme"
+  author = "Mathieu Cornic"
+  showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   disableLandingPageButton = true
