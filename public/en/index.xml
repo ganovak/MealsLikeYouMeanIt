@@ -6,7 +6,6 @@
     <description>Recent content in Learn Theme for Hugo on Meals Like You Mean It</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
     
 	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,15 +19,6 @@
       <description>Contributors Thanks to them for making Open Source Software a better place !
 And a special thanks to @vjeantet for his work on docdock, a fork of hugo-theme-learn. v2.0.0 of this theme is inspired by his work.
 Packages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services&amp;hellip; horsey - Progressive and customizable autocomplete component clipboard.</description>
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>/en/showcase/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/showcase/</guid>
-      <description>TAT by OVH Tshark.dev by Ross Jacobs inteliver by Amir Lavasani </description>
     </item>
     
   </channel>

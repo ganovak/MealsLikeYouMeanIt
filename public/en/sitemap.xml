@@ -15,104 +15,6 @@
   </url>
   
   <url>
-    <loc>/en/basics/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/basics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/basics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/basics/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/basics/requirements/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/basics/requirements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/basics/requirements/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/basics/installation/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/basics/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/basics/installation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/basics/configuration/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/basics/configuration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/basics/configuration/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/basics/style-customization/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/basics/style-customization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/basics/style-customization/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -146,16 +48,21 @@
   </url>
   
   <url>
-    <loc>/en/showcase/</loc>
+    <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/vitrine/"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/showcase/"
+                href="/en/"
                 />
   </url>
   
