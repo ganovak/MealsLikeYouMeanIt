@@ -1,21 +1,20 @@
-baseURL = "https://mealslikeyoumeanit.netlify.app/en/"
+baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Meals Like You Mean It"
+title = "Hugo Learn Documentation"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = ""
-  description = "Novak family cookbook meets the modern age. Or, a justification for my computer science degree."
-  author = "Gabby Novak"
-  showVisitedLinks = false
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Documentation for Hugo Learn Theme"
+  author = "Mathieu Cornic"
+  showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   disableLandingPageButton = true
-  # disableLanguageSwitchingButton = false
   disableMermaid = false
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
@@ -85,7 +84,7 @@ weight = 30
 [Languages.zh]
 title = "Hugo 主题的 Learn 文档"
 weight = 3
-languageName = "简体�?文"
+languageName = "简体中文"
 landingPageURL = "/zh"
 landingPageName = "<i class='fas fa-home'></i> 家"
 
