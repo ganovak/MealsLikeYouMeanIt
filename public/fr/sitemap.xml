@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="/en/zh/basics/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/en/fr/basics/"
                 />
@@ -219,6 +224,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="/en/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/en/fr/"
                 />
@@ -231,6 +241,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/en/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -288,6 +303,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/en/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir= true
   disableBreadcrumb = false
   disableNextPrev = false
   disableLandingPageButton = true
-  disableLanguageSwitchingButton = false
+  # disableLanguageSwitchingButton = false
   disableMermaid = false
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
@@ -53,60 +53,60 @@ name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
 url = "/credits"
 weight = 30
 
-# [Languages.fr]
-# title = "Documentation du thème Hugo Learn"
-# weight = 2
-# languageName = "Français"
-# landingPageURL = "/fr"
-# landingPageName = "<i class='fas fa-home'></i> Accueil"
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 2
+languageName = "Français"
+landingPageURL = "/fr"
+landingPageName = "<i class='fas fa-home'></i> Accueil"
 
 [[Languages.fr.menu.shortcuts]]
-# name = "<i class='fab fa-fw fa-github'></i> Repo GitHub"
-# identifier = "ds"
-# url = "https://github.com/matcornic/hugo-theme-learn"
-# weight = 10
+name = "<i class='fab fa-fw fa-github'></i> Repo GitHub"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
 
-# [[Languages.fr.menu.shortcuts]]
-# name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
-# url = "/showcase"
-# weight = 11
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
+url = "/showcase"
+weight = 11
 
-# [[Languages.fr.menu.shortcuts]]
-# name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
-# identifier = "hugodoc"
-# url = "https://gohugo.io/"
-# weight = 20
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
 
-# [[Languages.fr.menu.shortcuts]]
-# name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
-# url = "/credits"
-# weight = 30
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
+url = "/credits"
+weight = 30
 
-# [Languages.zh]
-# title = "Hugo 主题的 Learn 文档"
-# weight = 3
-# languageName = "简体中文"
-# landingPageURL = "/zh"
-# landingPageName = "<i class='fas fa-home'></i> 家"
+[Languages.zh]
+title = "Hugo 主题的 Learn 文档"
+weight = 3
+languageName = "简体�?文"
+landingPageURL = "/zh"
+landingPageName = "<i class='fas fa-home'></i> 家"
 
-# [[Languages.zh.menu.shortcuts]]
-# name = "<i class='fab fa-fw fa-github'></i> GitHub 仓库"
-# identifier = "ds"
-# url = "https://github.com/matcornic/hugo-theme-learn"
-# weight = 10
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub 仓库"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
 
-# [[Languages.zh.menu.shortcuts]]
-# name = "<i class='fas fa-fw fa-camera'></i> 展示区"
-# url = "/showcase"
-# weight = 11
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> 展示区"
+url = "/showcase"
+weight = 11
 
-# [[Languages.zh.menu.shortcuts]]
-# name = "<i class='fas fa-fw fa-bookmark'></i> Hugo 文档"
-# identifier = "hugodoc"
-# url = "https://gohugo.io/"
-# weight = 20
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo 文档"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
 
-# [[Languages.zh.menu.shortcuts]]
-# name = "<i class='fas fa-fw fa-bullhorn'></i> 鸣谢"
-# url = "/credits"
-# weight = 30
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> 鸣谢"
+url = "/credits"
+weight = 30
