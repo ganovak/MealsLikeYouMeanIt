@@ -9,13 +9,13 @@ defaultContentLanguageInSubdir= true
 
 [params]
   # editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Hugo Learn Theme"
-  author = "Mathieu Cornic"
-  showVisitedLinks = true
+  description = "Novak Family Cookbook"
+  author = "Gabby Novak"
+  showVisitedLinks = false
   disableBreadcrumb = false
   disableNextPrev = false
   disableLandingPageButton = true
-  disableMermaid = false
+  disableMermaid = true
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
 
