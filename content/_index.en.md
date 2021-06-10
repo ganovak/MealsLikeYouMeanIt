@@ -1,41 +1,19 @@
 ---
-title: Learn Theme for Hugo
+title: Meals Like You Mean It
 ---
 
-# Hugo learn theme
+# Meals Like You Mean It
 
-[Hugo-theme-learn](http://github.com/matcornic/hugo-theme-learn) is a theme for [Hugo](https://gohugo.io/), a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is **fully designed for documentation**.
+This is technically Novak family cookbook the third (if you are not a Novak, or do not play one on the TV, welcome, you will only get approximately 37% of the forthcoming jokes). No, its not because I'm indecisive about formatting and file structures. Nor because I keep outgrowing all attempts to confine this behemoth. Or even because I respect no Plexiglas rule and change recipes with reckless, and often unrecorded, abandon. All of these are true, but, you see, the truth is, I got tired of much abused menagerie of unwieldy binders than currently represent the real world manifestation of this collection. I can't navigate it, you can't navigate it, and it'll pinch your finger off if you so much as exist. Also, I can't own a restaurant because I dislike standing and working hard and I can't write real cookbooks due to my obvious aversion to finalizing things. So here we are. Next step, secure a captive audience.
 
-This theme is a partial porting of the [Learn theme](http://learn.getgrav.org/) of [Grav](https://getgrav.org/), a modern flat-file CMS written in PHP.
+This is a cookbook, but it is also a story. Not like those suburban mom food blogs because I'm actually interesting and I would return from the grave to prevent tater tot casserole from being served at my table. And not insofar as a story is a thing with like chapters or characters or what one might casually refer to as a plot. Sure, there's a beginning. The middle is dubious at best. And I guess the end is where we all posthumously reconvene in our family home to drive off its occupants in a coordinated haunting effort as a family bonding activity (and stand guard against inappropriate casserole application). Okay, so I appear, despite my best intentions at the outset of this, to have presented a proof by contradiction. This is my least favorite kind of proof and I'm probably more upset than you are. So it's not a story. I probably just wanted a chance to rail on tater tot casserole and eternally preserve my afterlife plans for when they inevitably film a horror movie in our house (other must add components include: referring to Mom by her first name, banging on the filing cabinet, the nun dolls). It's more like a card catalog (I've never seen one of these in person but I believe I grasp the base concept). Maintained by a toddler. Who is really into fancy spices. You can think of it as one of those murder conspiracy boards except sub the gore and intrigue for vegetables and snark. And **searchability**. See I was getting somewhere. 
 
-{{% notice tip %}}Learn theme works with a _page tree structure_ to organize content : All contents are pages, which belong to other pages. [read more about this]({{%relref "cont/pages/_index.md"%}}) 
-{{% /notice %}}
+Anyhow, I wrote that bit, got attached, and then realized that it made no sense. But I couldn't bear to part with it. So, in actuality, I would like to begin with two essential recipes. Two recipes that, no matter how many I master, I never seem to be able to live down. Both are a product of a semi-questionable free-range-parenting-before-free-range-parenting was a thing experiment. Both are very simple and I encourage you to try them at home in your free time. Strong reactions from neighbors, guests, and intruders guaranteed.
 
-## Main features
+### Coffee Cake
+Combine **flour** and **pasteurized lemon juice** in somewhat mathematically justifiable equal proportions to your hearts content. Stir until you've attained the highly prized "gloop" consistency. Microwave until hard enough to cause a mild concussion when lobbed at your favorite neighborhood bully. If there is no risk of dental damage, its under cooked!
 
-* [Automatic Search]({{%relref "basics/configuration/_index.md#activate-search" %}})
-* [Multilingual mode]({{%relref "cont/i18n/_index.md" %}})
-* **Unlimited menu levels**
-* **Automatic next/prev buttons to navigate through menu entries**
-* [Image resizing, shadow...]({{%relref "cont/markdown.en.md#images" %}})
-* [Attachments files]({{%relref "shortcodes/attachments.en.md" %}})
-* [List child pages]({{%relref "shortcodes/children/_index.md" %}})
-* [Mermaid diagram]({{%relref "shortcodes/mermaid.en.md" %}}) (flowchart, sequence, gantt)
-* [Customizable look and feel and themes variants]({{%relref "basics/style-customization/_index.md"%}})
-* [Buttons]({{%relref "shortcodes/button.en.md" %}}), [Tip/Note/Info/Warning boxes]({{%relref "shortcodes/notice.en.md" %}}), [Expand]({{%relref "shortcodes/expand.en.md" %}})
+### Salsa
+Take **one can of tomato product**, it truly doesn't matter what variety. That would be Chaos with a name tag stuck to its back that says "Hello. My Name Is Versatility". For a fun dash of spontaneity, choose one while blindfolded. Disturb your fellow grocery shoppers! I encourage it. To this can of tomato product, simply add **spices**. I don't mean this is the superior if-you-were-a-person-with-any-modicum-of-cooking-ability-you'd-know-how-to-season-this way (this time). But rather as an expression of that versatility demon of chaos I mentioned earlier. Add whatever brings you joy: ground spices, whole spices, various sundry seasoning adjacent powders (this includes geographical proximity in the pantry). No need for any discrimination between *spicy* and *spices*. Lots of spices = spicy. This is why I'm a math major.
 
-![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow)
-
-## Contribute to this documentation
-Feel free to update this content, just click the **Edit this page** link displayed on top right of each page, and pullrequest it
-
-{{% notice info %}}
-Your modification will be deployed automatically when merged.
-{{% /notice %}}
-
-## Documentation website
-This current documentation has been statically generated with Hugo with a simple command : `hugo -t hugo-theme-learn` -- source code is [available here at GitHub](https://github.com/matcornic/hugo-theme-learn)
-
-{{% notice note %}}
-Automatically published and hosted thanks to [Netlify](https://www.netlify.com/). Read more about [Automated HUGO deployments with Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)
-{{% /notice %}}
+No one had the good sense to put a stop to all this then so now here we are. With your expectations are appropriately lowered, let's begin. Welcome to my little shop (where nothing is sold because freedom of information is important) of horrors (no whores here, Maggie would never abide it).
