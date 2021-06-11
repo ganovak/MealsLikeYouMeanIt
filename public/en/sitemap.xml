@@ -31,11 +31,19 @@
   </url>
   
   <url>
+    <loc>/en/front/hardware/</loc>
+  </url>
+  
+  <url>
     <loc>/en/sandbox/</loc>
   </url>
   
   <url>
     <loc>/en/appendix/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/front/nonsense/</loc>
   </url>
   
   <url>
